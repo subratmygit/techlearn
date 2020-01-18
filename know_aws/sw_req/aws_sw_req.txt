@@ -1,0 +1,26 @@
+github link for training https://github.com/keshavkummari/aws_csa_a_slearn_4thSep19
+
+Software required
+Install GitBash from git-scm.com. 
+Open Github account
+Download and install AWS CLI
+Check connection from gitbash to connect aws cll (aws --version in gitbash or cmd or poweshell)
+Text editor - ATOM, Notepad++
+IDE Tool - Visua; Studio Code
+Install Cloudcraft
+AWS personal account
+
+
+1. Text Editors : ATOM (https://atom.io/)
+
+2. IDE Tools    : Visual Studio Code (https://code.visualstudio.com/download)
+
+3. MacOS|Windows|Linux : gitbash (https://git-scm.com/)
+
+4. aws cli : https://docs.aws.amazon.com/cli/latest/userguide/install-windows.html
+
+5. aws personal account : https://aws.amazon.com
+
+6. For Architectures : https://cloudcraft.co/app
+
+7. VCS/SCM  : https://github.com

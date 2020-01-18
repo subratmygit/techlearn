@@ -1,0 +1,17 @@
+Clone git repo to local
+
+In Gitbash 
+git clone https://github.com/subratmygit/hello-world.git
+ls -ld "hello-world" to verify
+ls -ltra "hello-world" to check containts
+cd hello-world
+in win create a file under "hello world" called a.txt and do changes
+
+do change on 
+git config --global user.name "subratmygit"
+git config --global user.email "subrat.ksatpathy@gmail.com"
+git status (check un commited files)
+git add *
+git commit -m "my first git"
+
+git push -u origin master
